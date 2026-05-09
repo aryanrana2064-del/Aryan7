@@ -1,4 +1,3 @@
 #!/bin/bash
-python bot.py
-python-telegram-bot
-python-gitlab
+pip install python-telegram-bot python-gitlab httpx
+python3 laxxyscript.py
